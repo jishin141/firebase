@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "498485217833",
+    "project_id": "online-database-applicat-35171",
+    "storage_bucket": "online-database-applicat-35171.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498485217833:android:a8818caa4b6923052d6a38",
+        "android_client_info": {
+          "package_name": "com.example.online_database_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC82YdNXa9Xe1ULwnfWwy6rZg7wbMX4xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
